@@ -1,0 +1,4 @@
+!Diehard: vanishes after 130 generations
+......O.
+OO......
+.O...OOO

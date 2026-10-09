@@ -1,0 +1,4 @@
+!R-pentomino: methuselah, stabilizes after 1103 generations
+.OO
+OO.
+.O.

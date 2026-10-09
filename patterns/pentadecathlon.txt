@@ -1,0 +1,4 @@
+!Pentadecathlon: oscillator, period 15
+..O....O..
+OO.OOOO.OO
+..O....O..

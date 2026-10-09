@@ -1,0 +1,15 @@
+gun.txt 5 5
+pulsar.txt 180 10
+pulsar.txt 205 10
+pulsar.txt 230 10
+pulsar.txt 255 10
+pentadecathlon.txt 190 50
+pentadecathlon.txt 220 50
+pentadecathlon.txt 250 50
+lwss.txt 250 90
+lwss.txt 258 100
+lwss.txt 266 110
+lwss.txt 274 120
+acorn.txt 150 170
+r-pentomino.txt 60 250
+diehard.txt 240 250

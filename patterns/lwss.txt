@@ -1,0 +1,5 @@
+!Lightweight spaceship: flies left
+.O..O
+O....
+O...O
+OOOO.
